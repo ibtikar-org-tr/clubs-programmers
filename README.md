@@ -8,11 +8,11 @@
 
 ## 🤔 **What Happens in This Club?**
 
-🔸 **Interactive Workshops** 🛠️🎓: Sessions exploring new tools, programming languages, and emerging technologies.  
-🔸 **Collaborative Projects** 👥💡: Members work together on exciting projects and share their progress.  
-🔸 **Coding Challenges & Competitions** 🏆🎯: A space to test skills, solve problems, and participate in friendly competitions.  
-🔸 **Regular Meetups** 📅🤝: Discussions on the latest tech trends, knowledge exchange, and networking opportunities.  
-🔸 **Sharing Knowledge & Resources** 📚🔍: A culture of learning through experience sharing and resource exchange.  
+🔸 **Workshops** 🛠️🎓: Explore new tools, languages, and technologies.  
+🔸 **Projects** 👥💡: Collaborate on exciting ideas and share progress.  
+🔸 **Challenges & Competitions** 🏆🎯: Test skills, solve problems, and compete.  
+🔸 **Meetups** 📅🤝: Discuss trends, exchange knowledge, and network.  
+🔸 **Sharing & Learning** 📚🔍: Grow through shared experiences and resources.  
 
 ---
 
