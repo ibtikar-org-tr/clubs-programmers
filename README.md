@@ -2,7 +2,7 @@
 
 > "Where Code Meets Creativity!" 🧠✨
 
-🔹 **Clubs Programmers** is the official programming club within **Ibtikar**. It is a space where members engage in coding, collaborate on projects, and enhance their programming skills in a dynamic and interactive environment. 😍🔥
+🔹 **Programmers Club** is the official programming club within **Ibtikar**. It is a space where members engage in coding, collaborate on projects, and enhance their programming skills in a dynamic and interactive environment. 😍🔥
 
 ---
 
