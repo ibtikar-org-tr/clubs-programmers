@@ -1,4 +1,4 @@
-# 🎉 Welcome to **Clubs Programmers** 🚀💻
+# 🎉 Welcome to **Programmers Club** 🚀💻
 
 > "Where Code Meets Creativity!" 🧠✨
 
