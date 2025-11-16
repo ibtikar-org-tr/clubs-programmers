@@ -2,10 +2,10 @@ import { Phone, LogIn } from "lucide-react"
 
 export default function Navbar() {
   return (
-    <nav className="bg-blue-900 text-white shadow-lg">
+    <nav className="bg-red-900 text-white shadow-lg">
       <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
         {/* Logo */}
-        <div className="text-2xl font-bold tracking-wide">Konato</div>
+        <div className="text-2xl font-bold tracking-wide">MyEstate</div>
 
         {/* Center Navigation Links */}
         <div className="hidden md:flex gap-8 items-center justify-center flex-1">

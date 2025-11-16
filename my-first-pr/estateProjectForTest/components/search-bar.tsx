@@ -13,7 +13,7 @@ export default function SearchBar() {
           {/* Keyword Input */}
           <input
             type="text"
-            placeholder="Search by keyword..."
+            placeholder="Find your dream home..."
             className="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
           />
 
@@ -45,7 +45,7 @@ export default function SearchBar() {
           </select>
 
           {/* Search Button */}
-          <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg font-semibold flex items-center gap-2 transition w-full md:w-auto">
+          <button className="bg-red-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg font-semibold flex items-center gap-2 transition w-full md:w-auto">
             <Search size={20} />
             Search
           </button>
