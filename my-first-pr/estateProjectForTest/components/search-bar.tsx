@@ -45,7 +45,12 @@ export default function SearchBar() {
           </select>
 
           {/* Search Button */}
+{/*<<<<<<< main
           <button className="bg-green-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg font-semibold flex items-center gap-2 transition w-full md:w-auto">
+=======
+         */}
+         <button className="bg-red-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg font-semibold flex items-center gap-2 transition w-full md:w-auto">
+{/*>>>>>>> main*/}
             <Search size={20} />
             Search
           </button>
