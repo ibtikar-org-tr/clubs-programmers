@@ -1,15 +1,15 @@
-import { Phone, LogIn } from "lucide-react"
+import { Phone, LogIn } from "lucide-react";
 
 export default function Navbar() {
   return (
     <nav className="bg-red-900 text-white shadow-lg">
       <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
         {/* Logo */}
- {/*<<<<<<< main
+  {/*<<<<<<< main
         <div className="text-2xl font-bold tracking-wide">MyEstate</div>
 =======*/}
         <div className="text-2xl font-bold tracking-wide">S's page</div>
-{/*>>>>>>> main*/}
+{/*>>>>>>> main
 
         {/* Center Navigation Links */}
         <div className="hidden md:flex gap-8 items-center justify-center flex-1">
@@ -43,5 +43,5 @@ export default function Navbar() {
         </div>
       </div>
     </nav>
-  )
+  );
 }

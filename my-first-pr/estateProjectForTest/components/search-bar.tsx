@@ -1,10 +1,10 @@
-"use client"
+"use client";
 
-import { useState } from "react"
-import { Search } from "lucide-react"
+import { useState } from "react";
+import { Search } from "lucide-react";
 
 export default function SearchBar() {
-  const [searchType, setSearchType] = useState("rent")
+  const [searchType, setSearchType] = useState("rent");
 
   return (
     <div className="bg-white border-b sticky top-0 z-10 shadow-sm">
@@ -45,12 +45,17 @@ export default function SearchBar() {
           </select>
 
           {/* Search Button */}
-          <button className="bg-red-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg font-semibold flex items-center gap-2 transition w-full md:w-auto">
+{/*<<<<<<< main
+          <button className="bg-green-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg font-semibold flex items-center gap-2 transition w-full md:w-auto">
+=======
+         */}
+         <button className="bg-red-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg font-semibold flex items-center gap-2 transition w-full md:w-auto">
+{/*>>>>>>> main*/}
             <Search size={20} />
             Search
           </button>
         </div>
       </div>
     </div>
-  )
+  );
 }
